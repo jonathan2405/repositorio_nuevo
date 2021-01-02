@@ -3,7 +3,8 @@
 # Versión: 1.0.0
 
 def main():
-    print("Hola Mundo!")
+    nombre=input("cual es su nombre")
+    print("Hola ",nombre, "bienvenido a git")
 
 
 if  name 	== " main ": 
